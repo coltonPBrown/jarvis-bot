@@ -1,6 +1,8 @@
 {
   "dependencies": {
     "discord.js": "^14.11.0",
-    "fs": "^0.0.1-security"
+    "ffmpeg-static": "^5.1.0",
+    "fs": "^0.0.1-security",
+    "ytdl-core": "^4.11.4"
   }
 }
